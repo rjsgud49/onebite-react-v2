@@ -165,4 +165,5 @@
 | **favicon.ico**<br/> 감정 일기장 아이콘  | <img height="100" alt="image" src="https://github.com/winterlood/onebite-react-v2/assets/46296754/030482bb-1824-43c6-9842-cb057b84de3b">   | [다운로드](https://drive.google.com/file/d/1dYsPn-O4JxyL25fF7CiAQfOv9zdkB3o2/view?usp=sharing) |
 | **thumbnail.png**<br/>감정 일기장 썸네일 | <img height="80" alt="image" src="https://user-images.githubusercontent.com/46296754/208675233-9e028888-6e26-4c22-97d0-7cd15051f4f5.png"/> | [다운로드](https://drive.google.com/file/d/14tDEfiLUEi98tQ7lUtjucuZyEaw-J2Pw/view?usp=sharing) |
 #   o n e b i t e - r e a c t - e x a m p l e  
+ #   o n e b i t e - r e a c t - e x a m p l e  
  
